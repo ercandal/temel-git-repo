@@ -11,6 +11,7 @@ pids
 
 #img
 *.jpg
+*.png
 *.mp4
 *.mp3
 
