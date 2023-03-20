@@ -1,6 +1,7 @@
 # Repository Temelleri
 ## patika.dev
 ![patika](/img/s11.png "patika common-png")
+
 [patika](https://app.patika.dev/courses/git)
 
 ## medium.com/@alianilkocak
