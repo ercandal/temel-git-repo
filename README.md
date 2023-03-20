@@ -14,4 +14,6 @@
 # Bazı Terimler
 ## .md
 markdown : "README.md" dosyasının uzantısıdır. Döküman hazırlarken girilen tag karmaşasından sıyrılıp, birkaç operatörle tag işlevlerini yerine getirip metnin **içeriğine** odaklanılmasını amaçlayan bir formattır.
-  ```<h1>Bazı Terimler</h1>```|```#Bazı Terimler```
+  
+  ```<h1>Bazı Terimler</h1>```
+  ```#Bazı Terimler```
